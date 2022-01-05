@@ -1,0 +1,43 @@
+{
+  "roles": {
+    "admin": {
+      "perms": {
+        "BasicRBAC.view": {
+          "allowed": true
+        },
+        "BasicRBAC.edit": {
+          "allowed": true
+        },
+        "BasicRBAC.delete": {
+          "allowed": true
+        }
+      }
+    },
+    "editor": {
+      "perms": {
+        "BasicRBAC.view": {
+          "allowed": true
+        },
+        "BasicRBAC.edit": {
+          "allowed": true
+        },
+        "BasicRBAC.delete": {
+          "allowed": false
+        }
+      }
+    },
+    "viewer": {
+      "perms": {
+        "BasicRBAC.view": {
+          "allowed": true
+        },
+        "BasicRBAC.edit": {
+          "allowed": false
+        },
+        "BasicRBAC.delete": {
+          "allowed": false
+        }
+      }
+    }
+  }
+}

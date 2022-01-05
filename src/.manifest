@@ -1,3 +1,5 @@
 {
-    "roots": ["policies"]
+  "roots": [
+    ""
+  ]
 }
