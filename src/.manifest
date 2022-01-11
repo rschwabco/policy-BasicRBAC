@@ -1,5 +1,5 @@
 {
   "roots": [
-    "basic_rbac"
+    "basic_rbac", "roles"
   ]
 }
