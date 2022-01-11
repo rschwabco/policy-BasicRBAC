@@ -1,4 +1,4 @@
-package BasicRBAC.view
+package basic_rbac.view
 
 import input.policy.path
 import input.user.attributes.roles as user_roles

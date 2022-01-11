@@ -1,4 +1,4 @@
-package BasicRBAC.delete
+package basic_rbac.delete
 
 import input.policy.path
 import input.user.attributes.roles as user_roles
